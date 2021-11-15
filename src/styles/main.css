@@ -1,0 +1,16 @@
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font: 15px sans-serif;
+  overflow-x: hidden;
+}
+
+#root {
+  overflow-x: hidden;
+}
