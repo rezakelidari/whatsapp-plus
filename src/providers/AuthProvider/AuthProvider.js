@@ -9,7 +9,6 @@ function AuthProvider({ children }) {
   const [url, setUrl] = useState(window.location.pathname.split("/").pop());
 
   useEffect(() => {
-    console.log("Update");
     auth.onAuthStateChanged((user) => {
       console.log();
       setLogin(user);
