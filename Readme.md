@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/rezakelidari/whatsapp-plus">
-    <img src="https://user-images.githubusercontent.com/62962597/142188788-04b85e09-8013-48cd-9723-2aadfad66263.png" alt="Logo" width="640" height="300">
+    <img src="https://user-images.githubusercontent.com/62962597/142188788-04b85e09-8013-48cd-9723-2aadfad66263.png" alt="Logo" width="640" height="360">
   </a>
 
 <h1 align="center">Whatsapp Plus</h1>
