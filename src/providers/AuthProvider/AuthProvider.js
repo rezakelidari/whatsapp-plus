@@ -23,4 +23,4 @@ function AuthProvider({ children }) {
   );
 }
 
-export { AuthProvider };
+export { AuthProvider, AuthContext };

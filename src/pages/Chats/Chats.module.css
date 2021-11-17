@@ -1,2 +1,7 @@
-.chatsMain {
+.chatsLoading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: calc(100vh - 4rem);
+  font-size: 3rem;
 }
